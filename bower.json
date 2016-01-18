@@ -1,0 +1,19 @@
+{
+  "name": "wwwroot",
+  "description": "projeto 99fit",
+  "main": "index.js",
+  "authors": [
+    "wellington Cristi vilela santana <wellington.c.v.santana@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
